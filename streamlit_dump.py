@@ -1,8 +1,8 @@
 import streamlit as st
 import random
 
-a = 5
-st.title("Hello world")
+a=5
+st.title("My fabulous number guessing game: NumWhy?")
 
 st.write(f"This is my first web {a}pp.")
 
